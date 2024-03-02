@@ -1,0 +1,14 @@
+d:\c#\J_control_statement\i_for\bin\Debug\net8.0\i_for.exe
+d:\c#\J_control_statement\i_for\bin\Debug\net8.0\i_for.deps.json
+d:\c#\J_control_statement\i_for\bin\Debug\net8.0\i_for.runtimeconfig.json
+d:\c#\J_control_statement\i_for\bin\Debug\net8.0\i_for.dll
+d:\c#\J_control_statement\i_for\bin\Debug\net8.0\i_for.pdb
+d:\c#\J_control_statement\i_for\obj\Debug\net8.0\i_for.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\J_control_statement\i_for\obj\Debug\net8.0\i_for.AssemblyInfoInputs.cache
+d:\c#\J_control_statement\i_for\obj\Debug\net8.0\i_for.AssemblyInfo.cs
+d:\c#\J_control_statement\i_for\obj\Debug\net8.0\i_for.csproj.CoreCompileInputs.cache
+d:\c#\J_control_statement\i_for\obj\Debug\net8.0\i_for.dll
+d:\c#\J_control_statement\i_for\obj\Debug\net8.0\refint\i_for.dll
+d:\c#\J_control_statement\i_for\obj\Debug\net8.0\i_for.pdb
+d:\c#\J_control_statement\i_for\obj\Debug\net8.0\i_for.genruntimeconfig.cache
+d:\c#\J_control_statement\i_for\obj\Debug\net8.0\ref\i_for.dll

@@ -1,0 +1,14 @@
+d:\c#\C_type_conversion\c_implicit\bin\Debug\net8.0\c_implicit.exe
+d:\c#\C_type_conversion\c_implicit\bin\Debug\net8.0\c_implicit.deps.json
+d:\c#\C_type_conversion\c_implicit\bin\Debug\net8.0\c_implicit.runtimeconfig.json
+d:\c#\C_type_conversion\c_implicit\bin\Debug\net8.0\c_implicit.dll
+d:\c#\C_type_conversion\c_implicit\bin\Debug\net8.0\c_implicit.pdb
+d:\c#\C_type_conversion\c_implicit\obj\Debug\net8.0\c_implicit.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\C_type_conversion\c_implicit\obj\Debug\net8.0\c_implicit.AssemblyInfoInputs.cache
+d:\c#\C_type_conversion\c_implicit\obj\Debug\net8.0\c_implicit.AssemblyInfo.cs
+d:\c#\C_type_conversion\c_implicit\obj\Debug\net8.0\c_implicit.csproj.CoreCompileInputs.cache
+d:\c#\C_type_conversion\c_implicit\obj\Debug\net8.0\c_implicit.dll
+d:\c#\C_type_conversion\c_implicit\obj\Debug\net8.0\refint\c_implicit.dll
+d:\c#\C_type_conversion\c_implicit\obj\Debug\net8.0\c_implicit.pdb
+d:\c#\C_type_conversion\c_implicit\obj\Debug\net8.0\c_implicit.genruntimeconfig.cache
+d:\c#\C_type_conversion\c_implicit\obj\Debug\net8.0\ref\c_implicit.dll

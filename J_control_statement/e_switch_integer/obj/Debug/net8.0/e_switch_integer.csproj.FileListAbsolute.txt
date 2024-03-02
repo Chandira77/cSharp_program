@@ -1,0 +1,14 @@
+d:\c#\J_control_statement\e_switch_integer\bin\Debug\net8.0\e_switch_integer.exe
+d:\c#\J_control_statement\e_switch_integer\bin\Debug\net8.0\e_switch_integer.deps.json
+d:\c#\J_control_statement\e_switch_integer\bin\Debug\net8.0\e_switch_integer.runtimeconfig.json
+d:\c#\J_control_statement\e_switch_integer\bin\Debug\net8.0\e_switch_integer.dll
+d:\c#\J_control_statement\e_switch_integer\bin\Debug\net8.0\e_switch_integer.pdb
+d:\c#\J_control_statement\e_switch_integer\obj\Debug\net8.0\e_switch_integer.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\J_control_statement\e_switch_integer\obj\Debug\net8.0\e_switch_integer.AssemblyInfoInputs.cache
+d:\c#\J_control_statement\e_switch_integer\obj\Debug\net8.0\e_switch_integer.AssemblyInfo.cs
+d:\c#\J_control_statement\e_switch_integer\obj\Debug\net8.0\e_switch_integer.csproj.CoreCompileInputs.cache
+d:\c#\J_control_statement\e_switch_integer\obj\Debug\net8.0\e_switch_integer.dll
+d:\c#\J_control_statement\e_switch_integer\obj\Debug\net8.0\refint\e_switch_integer.dll
+d:\c#\J_control_statement\e_switch_integer\obj\Debug\net8.0\e_switch_integer.pdb
+d:\c#\J_control_statement\e_switch_integer\obj\Debug\net8.0\e_switch_integer.genruntimeconfig.cache
+d:\c#\J_control_statement\e_switch_integer\obj\Debug\net8.0\ref\e_switch_integer.dll

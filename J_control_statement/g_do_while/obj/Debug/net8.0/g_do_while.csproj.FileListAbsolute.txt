@@ -1,0 +1,14 @@
+d:\c#\J_control_statement\g_do_while\bin\Debug\net8.0\g_do_while.exe
+d:\c#\J_control_statement\g_do_while\bin\Debug\net8.0\g_do_while.deps.json
+d:\c#\J_control_statement\g_do_while\bin\Debug\net8.0\g_do_while.runtimeconfig.json
+d:\c#\J_control_statement\g_do_while\bin\Debug\net8.0\g_do_while.dll
+d:\c#\J_control_statement\g_do_while\bin\Debug\net8.0\g_do_while.pdb
+d:\c#\J_control_statement\g_do_while\obj\Debug\net8.0\g_do_while.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\J_control_statement\g_do_while\obj\Debug\net8.0\g_do_while.AssemblyInfoInputs.cache
+d:\c#\J_control_statement\g_do_while\obj\Debug\net8.0\g_do_while.AssemblyInfo.cs
+d:\c#\J_control_statement\g_do_while\obj\Debug\net8.0\g_do_while.csproj.CoreCompileInputs.cache
+d:\c#\J_control_statement\g_do_while\obj\Debug\net8.0\g_do_while.dll
+d:\c#\J_control_statement\g_do_while\obj\Debug\net8.0\refint\g_do_while.dll
+d:\c#\J_control_statement\g_do_while\obj\Debug\net8.0\g_do_while.pdb
+d:\c#\J_control_statement\g_do_while\obj\Debug\net8.0\g_do_while.genruntimeconfig.cache
+d:\c#\J_control_statement\g_do_while\obj\Debug\net8.0\ref\g_do_while.dll

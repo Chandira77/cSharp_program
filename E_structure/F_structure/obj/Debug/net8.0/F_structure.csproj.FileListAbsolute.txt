@@ -1,0 +1,14 @@
+d:\c#\E_structure\F_structure\obj\Debug\net8.0\F_structure.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\E_structure\F_structure\obj\Debug\net8.0\F_structure.AssemblyInfoInputs.cache
+d:\c#\E_structure\F_structure\obj\Debug\net8.0\F_structure.AssemblyInfo.cs
+d:\c#\E_structure\F_structure\obj\Debug\net8.0\F_structure.csproj.CoreCompileInputs.cache
+d:\c#\E_structure\F_structure\bin\Debug\net8.0\F_structure.exe
+d:\c#\E_structure\F_structure\bin\Debug\net8.0\F_structure.deps.json
+d:\c#\E_structure\F_structure\bin\Debug\net8.0\F_structure.runtimeconfig.json
+d:\c#\E_structure\F_structure\bin\Debug\net8.0\F_structure.dll
+d:\c#\E_structure\F_structure\bin\Debug\net8.0\F_structure.pdb
+d:\c#\E_structure\F_structure\obj\Debug\net8.0\F_structure.dll
+d:\c#\E_structure\F_structure\obj\Debug\net8.0\refint\F_structure.dll
+d:\c#\E_structure\F_structure\obj\Debug\net8.0\F_structure.pdb
+d:\c#\E_structure\F_structure\obj\Debug\net8.0\F_structure.genruntimeconfig.cache
+d:\c#\E_structure\F_structure\obj\Debug\net8.0\ref\F_structure.dll

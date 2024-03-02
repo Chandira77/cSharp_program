@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\c#\\C_type_conversion\\g_type_conversion_non_compatible_convert_compatible\\g_type_conversion_non_compatible_convert_compatible.csproj": {}
+  },
+  "projects": {
+    "d:\\c#\\C_type_conversion\\g_type_conversion_non_compatible_convert_compatible\\g_type_conversion_non_compatible_convert_compatible.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\c#\\C_type_conversion\\g_type_conversion_non_compatible_convert_compatible\\g_type_conversion_non_compatible_convert_compatible.csproj",
+        "projectName": "g_type_conversion_non_compatible_convert_compatible",
+        "projectPath": "d:\\c#\\C_type_conversion\\g_type_conversion_non_compatible_convert_compatible\\g_type_conversion_non_compatible_convert_compatible.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "d:\\c#\\C_type_conversion\\g_type_conversion_non_compatible_convert_compatible\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

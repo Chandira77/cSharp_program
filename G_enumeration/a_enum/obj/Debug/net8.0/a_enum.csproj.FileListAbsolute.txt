@@ -1,0 +1,14 @@
+d:\c#\G_enumeration\a_enum\bin\Debug\net8.0\a_enum.exe
+d:\c#\G_enumeration\a_enum\bin\Debug\net8.0\a_enum.deps.json
+d:\c#\G_enumeration\a_enum\bin\Debug\net8.0\a_enum.runtimeconfig.json
+d:\c#\G_enumeration\a_enum\bin\Debug\net8.0\a_enum.dll
+d:\c#\G_enumeration\a_enum\bin\Debug\net8.0\a_enum.pdb
+d:\c#\G_enumeration\a_enum\obj\Debug\net8.0\a_enum.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\G_enumeration\a_enum\obj\Debug\net8.0\a_enum.AssemblyInfoInputs.cache
+d:\c#\G_enumeration\a_enum\obj\Debug\net8.0\a_enum.AssemblyInfo.cs
+d:\c#\G_enumeration\a_enum\obj\Debug\net8.0\a_enum.csproj.CoreCompileInputs.cache
+d:\c#\G_enumeration\a_enum\obj\Debug\net8.0\a_enum.dll
+d:\c#\G_enumeration\a_enum\obj\Debug\net8.0\refint\a_enum.dll
+d:\c#\G_enumeration\a_enum\obj\Debug\net8.0\a_enum.pdb
+d:\c#\G_enumeration\a_enum\obj\Debug\net8.0\a_enum.genruntimeconfig.cache
+d:\c#\G_enumeration\a_enum\obj\Debug\net8.0\ref\a_enum.dll

@@ -1,0 +1,14 @@
+d:\c#\J_control_statement\h_while\bin\Debug\net8.0\h_while.exe
+d:\c#\J_control_statement\h_while\bin\Debug\net8.0\h_while.deps.json
+d:\c#\J_control_statement\h_while\bin\Debug\net8.0\h_while.runtimeconfig.json
+d:\c#\J_control_statement\h_while\bin\Debug\net8.0\h_while.dll
+d:\c#\J_control_statement\h_while\bin\Debug\net8.0\h_while.pdb
+d:\c#\J_control_statement\h_while\obj\Debug\net8.0\h_while.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\J_control_statement\h_while\obj\Debug\net8.0\h_while.AssemblyInfoInputs.cache
+d:\c#\J_control_statement\h_while\obj\Debug\net8.0\h_while.AssemblyInfo.cs
+d:\c#\J_control_statement\h_while\obj\Debug\net8.0\h_while.csproj.CoreCompileInputs.cache
+d:\c#\J_control_statement\h_while\obj\Debug\net8.0\h_while.dll
+d:\c#\J_control_statement\h_while\obj\Debug\net8.0\refint\h_while.dll
+d:\c#\J_control_statement\h_while\obj\Debug\net8.0\h_while.pdb
+d:\c#\J_control_statement\h_while\obj\Debug\net8.0\h_while.genruntimeconfig.cache
+d:\c#\J_control_statement\h_while\obj\Debug\net8.0\ref\h_while.dll

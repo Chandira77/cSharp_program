@@ -1,0 +1,14 @@
+d:\c#\J_control_statement\j_foreach_charecter_array\bin\Debug\net8.0\j_foreach_charecter_array.exe
+d:\c#\J_control_statement\j_foreach_charecter_array\bin\Debug\net8.0\j_foreach_charecter_array.deps.json
+d:\c#\J_control_statement\j_foreach_charecter_array\bin\Debug\net8.0\j_foreach_charecter_array.runtimeconfig.json
+d:\c#\J_control_statement\j_foreach_charecter_array\bin\Debug\net8.0\j_foreach_charecter_array.dll
+d:\c#\J_control_statement\j_foreach_charecter_array\bin\Debug\net8.0\j_foreach_charecter_array.pdb
+d:\c#\J_control_statement\j_foreach_charecter_array\obj\Debug\net8.0\j_foreach_charecter_array.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\J_control_statement\j_foreach_charecter_array\obj\Debug\net8.0\j_foreach_charecter_array.AssemblyInfoInputs.cache
+d:\c#\J_control_statement\j_foreach_charecter_array\obj\Debug\net8.0\j_foreach_charecter_array.AssemblyInfo.cs
+d:\c#\J_control_statement\j_foreach_charecter_array\obj\Debug\net8.0\j_foreach_charecter_array.csproj.CoreCompileInputs.cache
+d:\c#\J_control_statement\j_foreach_charecter_array\obj\Debug\net8.0\j_foreach_charecter_array.dll
+d:\c#\J_control_statement\j_foreach_charecter_array\obj\Debug\net8.0\refint\j_foreach_charecter_array.dll
+d:\c#\J_control_statement\j_foreach_charecter_array\obj\Debug\net8.0\j_foreach_charecter_array.pdb
+d:\c#\J_control_statement\j_foreach_charecter_array\obj\Debug\net8.0\j_foreach_charecter_array.genruntimeconfig.cache
+d:\c#\J_control_statement\j_foreach_charecter_array\obj\Debug\net8.0\ref\j_foreach_charecter_array.dll

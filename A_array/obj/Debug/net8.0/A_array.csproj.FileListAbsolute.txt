@@ -1,0 +1,14 @@
+d:\c#\A_array\obj\Debug\net8.0\A_array.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\A_array\obj\Debug\net8.0\A_array.AssemblyInfoInputs.cache
+d:\c#\A_array\obj\Debug\net8.0\A_array.AssemblyInfo.cs
+d:\c#\A_array\obj\Debug\net8.0\A_array.csproj.CoreCompileInputs.cache
+d:\c#\A_array\bin\Debug\net8.0\A_array.exe
+d:\c#\A_array\bin\Debug\net8.0\A_array.deps.json
+d:\c#\A_array\bin\Debug\net8.0\A_array.runtimeconfig.json
+d:\c#\A_array\bin\Debug\net8.0\A_array.dll
+d:\c#\A_array\bin\Debug\net8.0\A_array.pdb
+d:\c#\A_array\obj\Debug\net8.0\A_array.dll
+d:\c#\A_array\obj\Debug\net8.0\refint\A_array.dll
+d:\c#\A_array\obj\Debug\net8.0\A_array.pdb
+d:\c#\A_array\obj\Debug\net8.0\A_array.genruntimeconfig.cache
+d:\c#\A_array\obj\Debug\net8.0\ref\A_array.dll

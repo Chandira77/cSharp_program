@@ -1,0 +1,14 @@
+d:\c#\J_control_statement\f_switch_charecter\bin\Debug\net8.0\f_switch_charecter.exe
+d:\c#\J_control_statement\f_switch_charecter\bin\Debug\net8.0\f_switch_charecter.deps.json
+d:\c#\J_control_statement\f_switch_charecter\bin\Debug\net8.0\f_switch_charecter.runtimeconfig.json
+d:\c#\J_control_statement\f_switch_charecter\bin\Debug\net8.0\f_switch_charecter.dll
+d:\c#\J_control_statement\f_switch_charecter\bin\Debug\net8.0\f_switch_charecter.pdb
+d:\c#\J_control_statement\f_switch_charecter\obj\Debug\net8.0\f_switch_charecter.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\J_control_statement\f_switch_charecter\obj\Debug\net8.0\f_switch_charecter.AssemblyInfoInputs.cache
+d:\c#\J_control_statement\f_switch_charecter\obj\Debug\net8.0\f_switch_charecter.AssemblyInfo.cs
+d:\c#\J_control_statement\f_switch_charecter\obj\Debug\net8.0\f_switch_charecter.csproj.CoreCompileInputs.cache
+d:\c#\J_control_statement\f_switch_charecter\obj\Debug\net8.0\f_switch_charecter.dll
+d:\c#\J_control_statement\f_switch_charecter\obj\Debug\net8.0\refint\f_switch_charecter.dll
+d:\c#\J_control_statement\f_switch_charecter\obj\Debug\net8.0\f_switch_charecter.pdb
+d:\c#\J_control_statement\f_switch_charecter\obj\Debug\net8.0\f_switch_charecter.genruntimeconfig.cache
+d:\c#\J_control_statement\f_switch_charecter\obj\Debug\net8.0\ref\f_switch_charecter.dll

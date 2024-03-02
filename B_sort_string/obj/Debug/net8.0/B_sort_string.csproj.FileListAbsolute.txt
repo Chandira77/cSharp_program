@@ -1,0 +1,14 @@
+d:\c#\B_sort_string\obj\Debug\net8.0\B_sort_string.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\B_sort_string\obj\Debug\net8.0\B_sort_string.AssemblyInfoInputs.cache
+d:\c#\B_sort_string\obj\Debug\net8.0\B_sort_string.AssemblyInfo.cs
+d:\c#\B_sort_string\obj\Debug\net8.0\B_sort_string.csproj.CoreCompileInputs.cache
+d:\c#\B_sort_string\bin\Debug\net8.0\B_sort_string.exe
+d:\c#\B_sort_string\bin\Debug\net8.0\B_sort_string.deps.json
+d:\c#\B_sort_string\bin\Debug\net8.0\B_sort_string.runtimeconfig.json
+d:\c#\B_sort_string\bin\Debug\net8.0\B_sort_string.dll
+d:\c#\B_sort_string\bin\Debug\net8.0\B_sort_string.pdb
+d:\c#\B_sort_string\obj\Debug\net8.0\B_sort_string.dll
+d:\c#\B_sort_string\obj\Debug\net8.0\refint\B_sort_string.dll
+d:\c#\B_sort_string\obj\Debug\net8.0\B_sort_string.pdb
+d:\c#\B_sort_string\obj\Debug\net8.0\B_sort_string.genruntimeconfig.cache
+d:\c#\B_sort_string\obj\Debug\net8.0\ref\B_sort_string.dll

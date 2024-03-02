@@ -1,0 +1,14 @@
+d:\c#\I_partial_class\a_partial_class\bin\Debug\net8.0\a_partial_class.exe
+d:\c#\I_partial_class\a_partial_class\bin\Debug\net8.0\a_partial_class.deps.json
+d:\c#\I_partial_class\a_partial_class\bin\Debug\net8.0\a_partial_class.runtimeconfig.json
+d:\c#\I_partial_class\a_partial_class\bin\Debug\net8.0\a_partial_class.dll
+d:\c#\I_partial_class\a_partial_class\bin\Debug\net8.0\a_partial_class.pdb
+d:\c#\I_partial_class\a_partial_class\obj\Debug\net8.0\a_partial_class.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\I_partial_class\a_partial_class\obj\Debug\net8.0\a_partial_class.AssemblyInfoInputs.cache
+d:\c#\I_partial_class\a_partial_class\obj\Debug\net8.0\a_partial_class.AssemblyInfo.cs
+d:\c#\I_partial_class\a_partial_class\obj\Debug\net8.0\a_partial_class.csproj.CoreCompileInputs.cache
+d:\c#\I_partial_class\a_partial_class\obj\Debug\net8.0\a_partial_class.dll
+d:\c#\I_partial_class\a_partial_class\obj\Debug\net8.0\refint\a_partial_class.dll
+d:\c#\I_partial_class\a_partial_class\obj\Debug\net8.0\a_partial_class.pdb
+d:\c#\I_partial_class\a_partial_class\obj\Debug\net8.0\a_partial_class.genruntimeconfig.cache
+d:\c#\I_partial_class\a_partial_class\obj\Debug\net8.0\ref\a_partial_class.dll
