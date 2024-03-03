@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\I_partial_class\\b_partial_class\\b_partial_class.csproj": {}
+    "d:\\c#\\L_Inheritance\\a_single_inheritance\\a_single_inheritance.csproj": {}
   },
   "projects": {
-    "D:\\c#\\I_partial_class\\b_partial_class\\b_partial_class.csproj": {
+    "d:\\c#\\L_Inheritance\\a_single_inheritance\\a_single_inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\I_partial_class\\b_partial_class\\b_partial_class.csproj",
-        "projectName": "b_partial_class",
-        "projectPath": "D:\\c#\\I_partial_class\\b_partial_class\\b_partial_class.csproj",
+        "projectUniqueName": "d:\\c#\\L_Inheritance\\a_single_inheritance\\a_single_inheritance.csproj",
+        "projectName": "a_single_inheritance",
+        "projectPath": "d:\\c#\\L_Inheritance\\a_single_inheritance\\a_single_inheritance.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\I_partial_class\\b_partial_class\\obj\\",
+        "outputPath": "d:\\c#\\L_Inheritance\\a_single_inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

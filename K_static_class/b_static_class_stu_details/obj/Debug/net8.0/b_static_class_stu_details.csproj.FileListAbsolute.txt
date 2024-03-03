@@ -1,0 +1,15 @@
+d:\c#\K_static_class\b_static_class_stu_details\bin\Debug\net8.0\b_static_class_stu_details.exe
+d:\c#\K_static_class\b_static_class_stu_details\bin\Debug\net8.0\b_static_class_stu_details.deps.json
+d:\c#\K_static_class\b_static_class_stu_details\bin\Debug\net8.0\b_static_class_stu_details.runtimeconfig.json
+d:\c#\K_static_class\b_static_class_stu_details\bin\Debug\net8.0\b_static_class_stu_details.dll
+d:\c#\K_static_class\b_static_class_stu_details\bin\Debug\net8.0\b_static_class_stu_details.pdb
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\b_static_class_stu_details.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\b_static_class_stu_details.AssemblyInfoInputs.cache
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\b_static_class_stu_details.AssemblyInfo.cs
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\b_static_class_stu_details.csproj.CoreCompileInputs.cache
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\b_static_class_stu_details.sourcelink.json
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\b_static_class_stu_details.dll
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\refint\b_static_class_stu_details.dll
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\b_static_class_stu_details.pdb
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\b_static_class_stu_details.genruntimeconfig.cache
+d:\c#\K_static_class\b_static_class_stu_details\obj\Debug\net8.0\ref\b_static_class_stu_details.dll

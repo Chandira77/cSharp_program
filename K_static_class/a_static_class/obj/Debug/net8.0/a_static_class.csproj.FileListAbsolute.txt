@@ -1,0 +1,15 @@
+d:\c#\K_static_class\a_static_class\bin\Debug\net8.0\a_static_class.exe
+d:\c#\K_static_class\a_static_class\bin\Debug\net8.0\a_static_class.deps.json
+d:\c#\K_static_class\a_static_class\bin\Debug\net8.0\a_static_class.runtimeconfig.json
+d:\c#\K_static_class\a_static_class\bin\Debug\net8.0\a_static_class.dll
+d:\c#\K_static_class\a_static_class\bin\Debug\net8.0\a_static_class.pdb
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\a_static_class.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\a_static_class.AssemblyInfoInputs.cache
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\a_static_class.AssemblyInfo.cs
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\a_static_class.csproj.CoreCompileInputs.cache
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\a_static_class.sourcelink.json
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\a_static_class.dll
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\refint\a_static_class.dll
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\a_static_class.pdb
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\a_static_class.genruntimeconfig.cache
+d:\c#\K_static_class\a_static_class\obj\Debug\net8.0\ref\a_static_class.dll
