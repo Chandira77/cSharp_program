@@ -1,0 +1,15 @@
+d:\c#\L_Inheritance\b_single_intehritance_constructors\bin\Debug\net8.0\b_single_intehritance_constructors.exe
+d:\c#\L_Inheritance\b_single_intehritance_constructors\bin\Debug\net8.0\b_single_intehritance_constructors.deps.json
+d:\c#\L_Inheritance\b_single_intehritance_constructors\bin\Debug\net8.0\b_single_intehritance_constructors.runtimeconfig.json
+d:\c#\L_Inheritance\b_single_intehritance_constructors\bin\Debug\net8.0\b_single_intehritance_constructors.dll
+d:\c#\L_Inheritance\b_single_intehritance_constructors\bin\Debug\net8.0\b_single_intehritance_constructors.pdb
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\b_single_intehritance_constructors.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\b_single_intehritance_constructors.AssemblyInfoInputs.cache
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\b_single_intehritance_constructors.AssemblyInfo.cs
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\b_single_intehritance_constructors.csproj.CoreCompileInputs.cache
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\b_single_intehritance_constructors.sourcelink.json
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\b_single_intehritance_constructors.dll
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\refint\b_single_intehritance_constructors.dll
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\b_single_intehritance_constructors.pdb
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\b_single_intehritance_constructors.genruntimeconfig.cache
+d:\c#\L_Inheritance\b_single_intehritance_constructors\obj\Debug\net8.0\ref\b_single_intehritance_constructors.dll

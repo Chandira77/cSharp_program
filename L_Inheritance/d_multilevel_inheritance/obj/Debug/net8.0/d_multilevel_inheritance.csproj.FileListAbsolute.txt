@@ -1,0 +1,15 @@
+d:\c#\L_Inheritance\d_multilevel_inheritance\bin\Debug\net8.0\d_multilevel_inheritance.exe
+d:\c#\L_Inheritance\d_multilevel_inheritance\bin\Debug\net8.0\d_multilevel_inheritance.deps.json
+d:\c#\L_Inheritance\d_multilevel_inheritance\bin\Debug\net8.0\d_multilevel_inheritance.runtimeconfig.json
+d:\c#\L_Inheritance\d_multilevel_inheritance\bin\Debug\net8.0\d_multilevel_inheritance.dll
+d:\c#\L_Inheritance\d_multilevel_inheritance\bin\Debug\net8.0\d_multilevel_inheritance.pdb
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\d_multilevel_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\d_multilevel_inheritance.AssemblyInfoInputs.cache
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\d_multilevel_inheritance.AssemblyInfo.cs
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\d_multilevel_inheritance.csproj.CoreCompileInputs.cache
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\d_multilevel_inheritance.sourcelink.json
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\d_multilevel_inheritance.dll
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\refint\d_multilevel_inheritance.dll
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\d_multilevel_inheritance.pdb
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\d_multilevel_inheritance.genruntimeconfig.cache
+d:\c#\L_Inheritance\d_multilevel_inheritance\obj\Debug\net8.0\ref\d_multilevel_inheritance.dll
