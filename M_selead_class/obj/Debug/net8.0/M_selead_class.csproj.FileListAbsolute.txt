@@ -1,0 +1,15 @@
+d:\c#\M_selead_class\bin\Debug\net8.0\M_selead_class.exe
+d:\c#\M_selead_class\bin\Debug\net8.0\M_selead_class.deps.json
+d:\c#\M_selead_class\bin\Debug\net8.0\M_selead_class.runtimeconfig.json
+d:\c#\M_selead_class\bin\Debug\net8.0\M_selead_class.dll
+d:\c#\M_selead_class\bin\Debug\net8.0\M_selead_class.pdb
+d:\c#\M_selead_class\obj\Debug\net8.0\M_selead_class.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\M_selead_class\obj\Debug\net8.0\M_selead_class.AssemblyInfoInputs.cache
+d:\c#\M_selead_class\obj\Debug\net8.0\M_selead_class.AssemblyInfo.cs
+d:\c#\M_selead_class\obj\Debug\net8.0\M_selead_class.csproj.CoreCompileInputs.cache
+d:\c#\M_selead_class\obj\Debug\net8.0\M_selead_class.sourcelink.json
+d:\c#\M_selead_class\obj\Debug\net8.0\M_selead_class.dll
+d:\c#\M_selead_class\obj\Debug\net8.0\refint\M_selead_class.dll
+d:\c#\M_selead_class\obj\Debug\net8.0\M_selead_class.pdb
+d:\c#\M_selead_class\obj\Debug\net8.0\M_selead_class.genruntimeconfig.cache
+d:\c#\M_selead_class\obj\Debug\net8.0\ref\M_selead_class.dll
