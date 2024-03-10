@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj": {}
+    "D:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj": {}
   },
   "projects": {
-    "d:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj": {
+    "D:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj",
+        "projectUniqueName": "D:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj",
         "projectName": "f_single_name_method",
-        "projectPath": "d:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj",
+        "projectPath": "D:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\c#\\L_Inheritance\\f_single_name_method\\obj\\",
+        "outputPath": "D:\\c#\\L_Inheritance\\f_single_name_method\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

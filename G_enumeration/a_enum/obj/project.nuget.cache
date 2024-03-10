@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x/3iXRmC7KRrruPItWNcVd+rvidCX8CwecJegCbzNF57qzRoAglKhwdewnypuwN7AE1/Zm2aozeOxPYHabLpoQ==",
+  "dgSpecHash": "xwOL6t1fCeP6Sjvto/qGO/AlE026qguNgno5kYWydxCOglZhrsdQDaEyub1QhouikX/QoCDgIB0k3/5D2vG2gQ==",
   "success": true,
-  "projectFilePath": "d:\\c#\\G_enumeration\\a_enum\\a_enum.csproj",
+  "projectFilePath": "D:\\c#\\G_enumeration\\a_enum\\a_enum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

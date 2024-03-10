@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#\\J_control_statement\\i_for\\i_for.csproj": {}
+    "D:\\c#\\J_control_statement\\i_for\\i_for.csproj": {}
   },
   "projects": {
-    "d:\\c#\\J_control_statement\\i_for\\i_for.csproj": {
+    "D:\\c#\\J_control_statement\\i_for\\i_for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#\\J_control_statement\\i_for\\i_for.csproj",
+        "projectUniqueName": "D:\\c#\\J_control_statement\\i_for\\i_for.csproj",
         "projectName": "i_for",
-        "projectPath": "d:\\c#\\J_control_statement\\i_for\\i_for.csproj",
+        "projectPath": "D:\\c#\\J_control_statement\\i_for\\i_for.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\c#\\J_control_statement\\i_for\\obj\\",
+        "outputPath": "D:\\c#\\J_control_statement\\i_for\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

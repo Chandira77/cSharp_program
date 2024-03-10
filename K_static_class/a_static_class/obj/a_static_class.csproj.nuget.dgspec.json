@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#\\K_static_class\\a_static_class\\a_static_class.csproj": {}
+    "D:\\c#\\K_static_class\\a_static_class\\a_static_class.csproj": {}
   },
   "projects": {
-    "d:\\c#\\K_static_class\\a_static_class\\a_static_class.csproj": {
+    "D:\\c#\\K_static_class\\a_static_class\\a_static_class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#\\K_static_class\\a_static_class\\a_static_class.csproj",
+        "projectUniqueName": "D:\\c#\\K_static_class\\a_static_class\\a_static_class.csproj",
         "projectName": "a_static_class",
-        "projectPath": "d:\\c#\\K_static_class\\a_static_class\\a_static_class.csproj",
+        "projectPath": "D:\\c#\\K_static_class\\a_static_class\\a_static_class.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\c#\\K_static_class\\a_static_class\\obj\\",
+        "outputPath": "D:\\c#\\K_static_class\\a_static_class\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

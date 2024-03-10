@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\g_single_accessing_parent_method.csproj": {}
+    "D:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\g_single_accessing_parent_method.csproj": {}
   },
   "projects": {
-    "d:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\g_single_accessing_parent_method.csproj": {
+    "D:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\g_single_accessing_parent_method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\g_single_accessing_parent_method.csproj",
+        "projectUniqueName": "D:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\g_single_accessing_parent_method.csproj",
         "projectName": "g_single_accessing_parent_method",
-        "projectPath": "d:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\g_single_accessing_parent_method.csproj",
+        "projectPath": "D:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\g_single_accessing_parent_method.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\obj\\",
+        "outputPath": "D:\\c#\\L_Inheritance\\g_single_accessing_parent_method\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

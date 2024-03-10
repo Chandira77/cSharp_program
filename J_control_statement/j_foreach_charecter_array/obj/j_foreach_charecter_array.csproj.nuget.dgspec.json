@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#\\J_control_statement\\j_foreach_charecter_array\\j_foreach_charecter_array.csproj": {}
+    "D:\\c#\\J_control_statement\\j_foreach_charecter_array\\j_foreach_charecter_array.csproj": {}
   },
   "projects": {
-    "d:\\c#\\J_control_statement\\j_foreach_charecter_array\\j_foreach_charecter_array.csproj": {
+    "D:\\c#\\J_control_statement\\j_foreach_charecter_array\\j_foreach_charecter_array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#\\J_control_statement\\j_foreach_charecter_array\\j_foreach_charecter_array.csproj",
+        "projectUniqueName": "D:\\c#\\J_control_statement\\j_foreach_charecter_array\\j_foreach_charecter_array.csproj",
         "projectName": "j_foreach_charecter_array",
-        "projectPath": "d:\\c#\\J_control_statement\\j_foreach_charecter_array\\j_foreach_charecter_array.csproj",
+        "projectPath": "D:\\c#\\J_control_statement\\j_foreach_charecter_array\\j_foreach_charecter_array.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\c#\\J_control_statement\\j_foreach_charecter_array\\obj\\",
+        "outputPath": "D:\\c#\\J_control_statement\\j_foreach_charecter_array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+d:\c#\O_interface\b_interface\bin\Debug\net8.0\b_interface.exe
+d:\c#\O_interface\b_interface\bin\Debug\net8.0\b_interface.deps.json
+d:\c#\O_interface\b_interface\bin\Debug\net8.0\b_interface.runtimeconfig.json
+d:\c#\O_interface\b_interface\bin\Debug\net8.0\b_interface.dll
+d:\c#\O_interface\b_interface\bin\Debug\net8.0\b_interface.pdb
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\b_interface.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\b_interface.AssemblyInfoInputs.cache
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\b_interface.AssemblyInfo.cs
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\b_interface.csproj.CoreCompileInputs.cache
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\b_interface.sourcelink.json
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\b_interface.dll
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\refint\b_interface.dll
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\b_interface.pdb
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\b_interface.genruntimeconfig.cache
+d:\c#\O_interface\b_interface\obj\Debug\net8.0\ref\b_interface.dll

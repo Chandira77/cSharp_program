@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#\\J_control_statement\\k_break_statement\\k_break_statement.csproj": {}
+    "D:\\c#\\J_control_statement\\k_break_statement\\k_break_statement.csproj": {}
   },
   "projects": {
-    "d:\\c#\\J_control_statement\\k_break_statement\\k_break_statement.csproj": {
+    "D:\\c#\\J_control_statement\\k_break_statement\\k_break_statement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#\\J_control_statement\\k_break_statement\\k_break_statement.csproj",
+        "projectUniqueName": "D:\\c#\\J_control_statement\\k_break_statement\\k_break_statement.csproj",
         "projectName": "k_break_statement",
-        "projectPath": "d:\\c#\\J_control_statement\\k_break_statement\\k_break_statement.csproj",
+        "projectPath": "D:\\c#\\J_control_statement\\k_break_statement\\k_break_statement.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\c#\\J_control_statement\\k_break_statement\\obj\\",
+        "outputPath": "D:\\c#\\J_control_statement\\k_break_statement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

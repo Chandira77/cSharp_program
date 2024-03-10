@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#\\I_partial_class\\b_trial_partial_class\\b_trial_partial_class.csproj": {}
+    "D:\\c#\\I_partial_class\\b_trial_partial_class\\b_trial_partial_class.csproj": {}
   },
   "projects": {
-    "d:\\c#\\I_partial_class\\b_trial_partial_class\\b_trial_partial_class.csproj": {
+    "D:\\c#\\I_partial_class\\b_trial_partial_class\\b_trial_partial_class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#\\I_partial_class\\b_trial_partial_class\\b_trial_partial_class.csproj",
+        "projectUniqueName": "D:\\c#\\I_partial_class\\b_trial_partial_class\\b_trial_partial_class.csproj",
         "projectName": "b_trial_partial_class",
-        "projectPath": "d:\\c#\\I_partial_class\\b_trial_partial_class\\b_trial_partial_class.csproj",
+        "projectPath": "D:\\c#\\I_partial_class\\b_trial_partial_class\\b_trial_partial_class.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\c#\\I_partial_class\\b_trial_partial_class\\obj\\",
+        "outputPath": "D:\\c#\\I_partial_class\\b_trial_partial_class\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

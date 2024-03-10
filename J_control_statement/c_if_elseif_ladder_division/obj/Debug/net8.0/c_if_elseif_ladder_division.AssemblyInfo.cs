@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c_if_elseif_ladder_division")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af900a27c7746ca9af667b679b129723541568e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("c_if_elseif_ladder_division")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c_if_elseif_ladder_division")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

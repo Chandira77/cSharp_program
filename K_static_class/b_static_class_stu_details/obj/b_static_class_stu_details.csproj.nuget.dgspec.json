@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj": {}
+    "D:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj": {}
   },
   "projects": {
-    "d:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj": {
+    "D:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj",
+        "projectUniqueName": "D:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj",
         "projectName": "b_static_class_stu_details",
-        "projectPath": "d:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj",
+        "projectPath": "D:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\c#\\K_static_class\\b_static_class_stu_details\\obj\\",
+        "outputPath": "D:\\c#\\K_static_class\\b_static_class_stu_details\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

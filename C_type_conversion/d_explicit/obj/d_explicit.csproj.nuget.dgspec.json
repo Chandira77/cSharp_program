@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c#\\C_type_conversion\\d_explicit\\d_explicit.csproj": {}
+    "D:\\c#\\C_type_conversion\\d_explicit\\d_explicit.csproj": {}
   },
   "projects": {
-    "d:\\c#\\C_type_conversion\\d_explicit\\d_explicit.csproj": {
+    "D:\\c#\\C_type_conversion\\d_explicit\\d_explicit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c#\\C_type_conversion\\d_explicit\\d_explicit.csproj",
+        "projectUniqueName": "D:\\c#\\C_type_conversion\\d_explicit\\d_explicit.csproj",
         "projectName": "d_explicit",
-        "projectPath": "d:\\c#\\C_type_conversion\\d_explicit\\d_explicit.csproj",
+        "projectPath": "D:\\c#\\C_type_conversion\\d_explicit\\d_explicit.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\c#\\C_type_conversion\\d_explicit\\obj\\",
+        "outputPath": "D:\\c#\\C_type_conversion\\d_explicit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
