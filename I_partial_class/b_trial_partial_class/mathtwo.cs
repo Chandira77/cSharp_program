@@ -1,4 +1,4 @@
-partial class cuboid
+partial class Cuboid
 {
     double length, breadth, height;
 

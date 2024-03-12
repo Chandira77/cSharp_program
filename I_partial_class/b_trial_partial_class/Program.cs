@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        cuboid c1 = new cuboid();
+        Cuboid c1 = new Cuboid();
         c1.mathTsaInput();
         c1.mathTsaOutput();
 
