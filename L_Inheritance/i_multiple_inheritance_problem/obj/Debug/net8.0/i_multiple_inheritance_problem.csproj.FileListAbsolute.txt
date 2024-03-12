@@ -1,0 +1,5 @@
+d:\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.AssemblyInfoInputs.cache
+d:\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.AssemblyInfo.cs
+d:\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.csproj.CoreCompileInputs.cache
+d:\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.sourcelink.json
