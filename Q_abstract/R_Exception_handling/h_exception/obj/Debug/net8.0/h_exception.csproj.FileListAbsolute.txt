@@ -1,0 +1,15 @@
+d:\c#\Q_abstract\R_Exception_handling\h_exception\bin\Debug\net8.0\h_exception.exe
+d:\c#\Q_abstract\R_Exception_handling\h_exception\bin\Debug\net8.0\h_exception.deps.json
+d:\c#\Q_abstract\R_Exception_handling\h_exception\bin\Debug\net8.0\h_exception.runtimeconfig.json
+d:\c#\Q_abstract\R_Exception_handling\h_exception\bin\Debug\net8.0\h_exception.dll
+d:\c#\Q_abstract\R_Exception_handling\h_exception\bin\Debug\net8.0\h_exception.pdb
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\h_exception.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\h_exception.AssemblyInfoInputs.cache
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\h_exception.AssemblyInfo.cs
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\h_exception.csproj.CoreCompileInputs.cache
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\h_exception.sourcelink.json
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\h_exception.dll
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\refint\h_exception.dll
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\h_exception.pdb
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\h_exception.genruntimeconfig.cache
+d:\c#\Q_abstract\R_Exception_handling\h_exception\obj\Debug\net8.0\ref\h_exception.dll

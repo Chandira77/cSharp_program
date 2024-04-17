@@ -1,0 +1,5 @@
+d:\c#\Q_abstract\R_Exception_handling\i_validate_voters_age_userdefined\obj\Debug\net8.0\i_validate_voters_age_userdefined.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\Q_abstract\R_Exception_handling\i_validate_voters_age_userdefined\obj\Debug\net8.0\i_validate_voters_age_userdefined.AssemblyInfoInputs.cache
+d:\c#\Q_abstract\R_Exception_handling\i_validate_voters_age_userdefined\obj\Debug\net8.0\i_validate_voters_age_userdefined.AssemblyInfo.cs
+d:\c#\Q_abstract\R_Exception_handling\i_validate_voters_age_userdefined\obj\Debug\net8.0\i_validate_voters_age_userdefined.csproj.CoreCompileInputs.cache
+d:\c#\Q_abstract\R_Exception_handling\i_validate_voters_age_userdefined\obj\Debug\net8.0\i_validate_voters_age_userdefined.sourcelink.json

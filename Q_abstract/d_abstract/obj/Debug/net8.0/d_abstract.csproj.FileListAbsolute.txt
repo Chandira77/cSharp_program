@@ -1,0 +1,10 @@
+d:\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.AssemblyInfoInputs.cache
+d:\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.AssemblyInfo.cs
+d:\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.csproj.CoreCompileInputs.cache
+d:\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.sourcelink.json
+d:\Codding\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.AssemblyInfoInputs.cache
+d:\Codding\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.AssemblyInfo.cs
+d:\Codding\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.csproj.CoreCompileInputs.cache
+d:\Codding\c#\Q_abstract\d_abstract\obj\Debug\net8.0\d_abstract.sourcelink.json
