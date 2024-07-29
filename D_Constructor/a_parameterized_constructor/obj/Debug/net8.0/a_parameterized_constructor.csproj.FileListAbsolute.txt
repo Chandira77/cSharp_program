@@ -1,0 +1,15 @@
+d:\c#\D_Constructor\a_parameterized_constructor\bin\Debug\net8.0\a_parameterized_constructor.exe
+d:\c#\D_Constructor\a_parameterized_constructor\bin\Debug\net8.0\a_parameterized_constructor.deps.json
+d:\c#\D_Constructor\a_parameterized_constructor\bin\Debug\net8.0\a_parameterized_constructor.runtimeconfig.json
+d:\c#\D_Constructor\a_parameterized_constructor\bin\Debug\net8.0\a_parameterized_constructor.dll
+d:\c#\D_Constructor\a_parameterized_constructor\bin\Debug\net8.0\a_parameterized_constructor.pdb
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\a_parameterized_constructor.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\a_parameterized_constructor.AssemblyInfoInputs.cache
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\a_parameterized_constructor.AssemblyInfo.cs
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\a_parameterized_constructor.csproj.CoreCompileInputs.cache
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\a_parameterized_constructor.sourcelink.json
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\a_parameterized_constructor.dll
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\refint\a_parameterized_constructor.dll
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\a_parameterized_constructor.pdb
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\a_parameterized_constructor.genruntimeconfig.cache
+d:\c#\D_Constructor\a_parameterized_constructor\obj\Debug\net8.0\ref\a_parameterized_constructor.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj": {}
+    "D:\\Codding\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj": {}
   },
   "projects": {
-    "D:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj": {
+    "D:\\Codding\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj",
+        "projectUniqueName": "D:\\Codding\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj",
         "projectName": "f_single_name_method",
-        "projectPath": "D:\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj",
+        "projectPath": "D:\\Codding\\c#\\L_Inheritance\\f_single_name_method\\f_single_name_method.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\L_Inheritance\\f_single_name_method\\obj\\",
+        "outputPath": "D:\\Codding\\c#\\L_Inheritance\\f_single_name_method\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

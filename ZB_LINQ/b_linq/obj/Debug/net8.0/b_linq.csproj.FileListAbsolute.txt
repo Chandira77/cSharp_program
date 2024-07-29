@@ -1,0 +1,15 @@
+d:\Codding\c#\ZB_LINQ\b_linq\bin\Debug\net8.0\b_linq.exe
+d:\Codding\c#\ZB_LINQ\b_linq\bin\Debug\net8.0\b_linq.deps.json
+d:\Codding\c#\ZB_LINQ\b_linq\bin\Debug\net8.0\b_linq.runtimeconfig.json
+d:\Codding\c#\ZB_LINQ\b_linq\bin\Debug\net8.0\b_linq.dll
+d:\Codding\c#\ZB_LINQ\b_linq\bin\Debug\net8.0\b_linq.pdb
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\b_linq.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\b_linq.AssemblyInfoInputs.cache
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\b_linq.AssemblyInfo.cs
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\b_linq.csproj.CoreCompileInputs.cache
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\b_linq.sourcelink.json
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\b_linq.dll
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\refint\b_linq.dll
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\b_linq.pdb
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\b_linq.genruntimeconfig.cache
+d:\Codding\c#\ZB_LINQ\b_linq\obj\Debug\net8.0\ref\b_linq.dll

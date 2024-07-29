@@ -1,0 +1,15 @@
+d:\Codding\c#\Z_String\f_string_name_address\bin\Debug\net8.0\f_string_name_address.exe
+d:\Codding\c#\Z_String\f_string_name_address\bin\Debug\net8.0\f_string_name_address.deps.json
+d:\Codding\c#\Z_String\f_string_name_address\bin\Debug\net8.0\f_string_name_address.runtimeconfig.json
+d:\Codding\c#\Z_String\f_string_name_address\bin\Debug\net8.0\f_string_name_address.dll
+d:\Codding\c#\Z_String\f_string_name_address\bin\Debug\net8.0\f_string_name_address.pdb
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\f_string_name_address.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\f_string_name_address.AssemblyInfoInputs.cache
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\f_string_name_address.AssemblyInfo.cs
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\f_string_name_address.csproj.CoreCompileInputs.cache
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\f_string_name_address.sourcelink.json
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\f_string_name_address.dll
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\refint\f_string_name_address.dll
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\f_string_name_address.pdb
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\f_string_name_address.genruntimeconfig.cache
+d:\Codding\c#\Z_String\f_string_name_address\obj\Debug\net8.0\ref\f_string_name_address.dll

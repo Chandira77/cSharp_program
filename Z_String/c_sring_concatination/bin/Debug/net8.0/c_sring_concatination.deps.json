@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "c_sring_concatination/1.0.0": {
+        "runtime": {
+          "c_sring_concatination.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c_sring_concatination/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

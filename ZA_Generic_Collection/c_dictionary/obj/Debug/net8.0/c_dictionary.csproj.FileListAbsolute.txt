@@ -1,0 +1,15 @@
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\c_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\c_dictionary.AssemblyInfoInputs.cache
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\c_dictionary.AssemblyInfo.cs
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\c_dictionary.csproj.CoreCompileInputs.cache
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\c_dictionary.sourcelink.json
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\bin\Debug\net8.0\c_dictionary.exe
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\bin\Debug\net8.0\c_dictionary.deps.json
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\bin\Debug\net8.0\c_dictionary.runtimeconfig.json
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\bin\Debug\net8.0\c_dictionary.dll
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\bin\Debug\net8.0\c_dictionary.pdb
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\c_dictionary.dll
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\refint\c_dictionary.dll
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\c_dictionary.pdb
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\c_dictionary.genruntimeconfig.cache
+d:\Codding\c#\ZA_Generic_Collection\c_dictionary\obj\Debug\net8.0\ref\c_dictionary.dll

@@ -1,0 +1,15 @@
+d:\Codding\c#\Z_String\c_sring_concatination\bin\Debug\net8.0\c_sring_concatination.exe
+d:\Codding\c#\Z_String\c_sring_concatination\bin\Debug\net8.0\c_sring_concatination.deps.json
+d:\Codding\c#\Z_String\c_sring_concatination\bin\Debug\net8.0\c_sring_concatination.runtimeconfig.json
+d:\Codding\c#\Z_String\c_sring_concatination\bin\Debug\net8.0\c_sring_concatination.dll
+d:\Codding\c#\Z_String\c_sring_concatination\bin\Debug\net8.0\c_sring_concatination.pdb
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\c_sring_concatination.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\c_sring_concatination.AssemblyInfoInputs.cache
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\c_sring_concatination.AssemblyInfo.cs
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\c_sring_concatination.csproj.CoreCompileInputs.cache
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\c_sring_concatination.sourcelink.json
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\c_sring_concatination.dll
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\refint\c_sring_concatination.dll
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\c_sring_concatination.pdb
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\c_sring_concatination.genruntimeconfig.cache
+d:\Codding\c#\Z_String\c_sring_concatination\obj\Debug\net8.0\ref\c_sring_concatination.dll

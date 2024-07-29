@@ -1,0 +1,15 @@
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\g_string_length.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\g_string_length.AssemblyInfoInputs.cache
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\g_string_length.AssemblyInfo.cs
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\g_string_length.csproj.CoreCompileInputs.cache
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\g_string_length.sourcelink.json
+d:\Codding\c#\Z_String\g_string_length\bin\Debug\net8.0\g_string_length.exe
+d:\Codding\c#\Z_String\g_string_length\bin\Debug\net8.0\g_string_length.deps.json
+d:\Codding\c#\Z_String\g_string_length\bin\Debug\net8.0\g_string_length.runtimeconfig.json
+d:\Codding\c#\Z_String\g_string_length\bin\Debug\net8.0\g_string_length.dll
+d:\Codding\c#\Z_String\g_string_length\bin\Debug\net8.0\g_string_length.pdb
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\g_string_length.dll
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\refint\g_string_length.dll
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\g_string_length.pdb
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\g_string_length.genruntimeconfig.cache
+d:\Codding\c#\Z_String\g_string_length\obj\Debug\net8.0\ref\g_string_length.dll

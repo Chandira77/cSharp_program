@@ -1,0 +1,15 @@
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\a_hashset.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\a_hashset.AssemblyInfoInputs.cache
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\a_hashset.AssemblyInfo.cs
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\a_hashset.csproj.CoreCompileInputs.cache
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\a_hashset.sourcelink.json
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\bin\Debug\net8.0\a_hashset.exe
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\bin\Debug\net8.0\a_hashset.deps.json
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\bin\Debug\net8.0\a_hashset.runtimeconfig.json
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\bin\Debug\net8.0\a_hashset.dll
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\bin\Debug\net8.0\a_hashset.pdb
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\a_hashset.dll
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\refint\a_hashset.dll
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\a_hashset.pdb
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\a_hashset.genruntimeconfig.cache
+d:\Codding\c#\ZA_Generic_Collection\a_hashset\obj\Debug\net8.0\ref\a_hashset.dll

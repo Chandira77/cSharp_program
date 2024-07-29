@@ -1,0 +1,15 @@
+d:\Codding\c#\Z_String\h_string_concatination\bin\Debug\net8.0\h_string_concatination.exe
+d:\Codding\c#\Z_String\h_string_concatination\bin\Debug\net8.0\h_string_concatination.deps.json
+d:\Codding\c#\Z_String\h_string_concatination\bin\Debug\net8.0\h_string_concatination.runtimeconfig.json
+d:\Codding\c#\Z_String\h_string_concatination\bin\Debug\net8.0\h_string_concatination.dll
+d:\Codding\c#\Z_String\h_string_concatination\bin\Debug\net8.0\h_string_concatination.pdb
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\h_string_concatination.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\h_string_concatination.AssemblyInfoInputs.cache
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\h_string_concatination.AssemblyInfo.cs
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\h_string_concatination.csproj.CoreCompileInputs.cache
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\h_string_concatination.sourcelink.json
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\h_string_concatination.dll
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\refint\h_string_concatination.dll
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\h_string_concatination.pdb
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\h_string_concatination.genruntimeconfig.cache
+d:\Codding\c#\Z_String\h_string_concatination\obj\Debug\net8.0\ref\h_string_concatination.dll

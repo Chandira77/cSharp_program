@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj",
+      "projectUniqueName": "D:\\Codding\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj",
       "projectName": "b_static_class_stu_details",
-      "projectPath": "D:\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj",
+      "projectPath": "D:\\Codding\\c#\\K_static_class\\b_static_class_stu_details\\b_static_class_stu_details.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\K_static_class\\b_static_class_stu_details\\obj\\",
+      "outputPath": "D:\\Codding\\c#\\K_static_class\\b_static_class_stu_details\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

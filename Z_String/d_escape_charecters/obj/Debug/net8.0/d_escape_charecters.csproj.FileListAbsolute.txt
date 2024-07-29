@@ -1,0 +1,15 @@
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\d_escape_charecters.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\d_escape_charecters.AssemblyInfoInputs.cache
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\d_escape_charecters.AssemblyInfo.cs
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\d_escape_charecters.csproj.CoreCompileInputs.cache
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\d_escape_charecters.sourcelink.json
+d:\Codding\c#\Z_String\d_escape_charecters\bin\Debug\net8.0\d_escape_charecters.exe
+d:\Codding\c#\Z_String\d_escape_charecters\bin\Debug\net8.0\d_escape_charecters.deps.json
+d:\Codding\c#\Z_String\d_escape_charecters\bin\Debug\net8.0\d_escape_charecters.runtimeconfig.json
+d:\Codding\c#\Z_String\d_escape_charecters\bin\Debug\net8.0\d_escape_charecters.dll
+d:\Codding\c#\Z_String\d_escape_charecters\bin\Debug\net8.0\d_escape_charecters.pdb
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\d_escape_charecters.dll
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\refint\d_escape_charecters.dll
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\d_escape_charecters.pdb
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\d_escape_charecters.genruntimeconfig.cache
+d:\Codding\c#\Z_String\d_escape_charecters\obj\Debug\net8.0\ref\d_escape_charecters.dll

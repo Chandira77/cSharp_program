@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = g_type_conversion_non_compatible_convert_compatible
-build_property.ProjectDir = D:\c#\C_type_conversion\g_type_conversion_non_compatible_convert_compatible\
+build_property.ProjectDir = D:\Codding\c#\C_type_conversion\g_type_conversion_non_compatible_convert_compatible\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

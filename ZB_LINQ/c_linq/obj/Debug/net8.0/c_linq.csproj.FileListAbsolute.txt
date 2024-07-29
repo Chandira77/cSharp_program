@@ -1,0 +1,5 @@
+d:\Codding\c#\ZB_LINQ\c_linq\obj\Debug\net8.0\c_linq.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\ZB_LINQ\c_linq\obj\Debug\net8.0\c_linq.AssemblyInfoInputs.cache
+d:\Codding\c#\ZB_LINQ\c_linq\obj\Debug\net8.0\c_linq.AssemblyInfo.cs
+d:\Codding\c#\ZB_LINQ\c_linq\obj\Debug\net8.0\c_linq.csproj.CoreCompileInputs.cache
+d:\Codding\c#\ZB_LINQ\c_linq\obj\Debug\net8.0\c_linq.sourcelink.json

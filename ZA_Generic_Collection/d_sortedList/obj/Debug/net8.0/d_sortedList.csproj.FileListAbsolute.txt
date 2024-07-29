@@ -1,0 +1,15 @@
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\d_sortedList.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\d_sortedList.AssemblyInfoInputs.cache
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\d_sortedList.AssemblyInfo.cs
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\d_sortedList.csproj.CoreCompileInputs.cache
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\d_sortedList.sourcelink.json
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\bin\Debug\net8.0\d_sortedList.exe
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\bin\Debug\net8.0\d_sortedList.deps.json
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\bin\Debug\net8.0\d_sortedList.runtimeconfig.json
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\bin\Debug\net8.0\d_sortedList.dll
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\bin\Debug\net8.0\d_sortedList.pdb
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\d_sortedList.dll
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\refint\d_sortedList.dll
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\d_sortedList.pdb
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\d_sortedList.genruntimeconfig.cache
+d:\Codding\c#\ZA_Generic_Collection\d_sortedList\obj\Debug\net8.0\ref\d_sortedList.dll

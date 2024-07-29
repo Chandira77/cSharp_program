@@ -3,3 +3,8 @@ d:\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_i
 d:\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.AssemblyInfo.cs
 d:\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.csproj.CoreCompileInputs.cache
 d:\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.sourcelink.json
+d:\Codding\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.AssemblyInfoInputs.cache
+d:\Codding\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.AssemblyInfo.cs
+d:\Codding\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.csproj.CoreCompileInputs.cache
+d:\Codding\c#\L_Inheritance\i_multiple_inheritance_problem\obj\Debug\net8.0\i_multiple_inheritance_problem.sourcelink.json

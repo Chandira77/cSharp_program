@@ -1,7 +1,7 @@
 ﻿namespace a_parameterized_constructor;
 
 class student
-
+{
 public int roll;
 public string name;
 public string address;
@@ -15,9 +15,8 @@ public string address;
 
 public void displayinfo()
 {
-    Console.WriteLine("The roll number is" + roll);
-    Console.WriteLine(" name is" +name);
-    Console.WriteLine("address is"+address);
+    Console.WriteLine(name + " lives in " + address + " whose roll number is " + roll + ".");
+}
 }
 
 class Program
@@ -27,6 +26,13 @@ class Program
        int sr;
        string sn, sa;
        Console.WriteLine("Enter roll number");
-       sr = Convert.ToInt32()
+       sr = Convert.ToInt32(Console.ReadLine());
+       Console.WriteLine("Enter name");
+       sn = Console.ReadLine();
+       Console.WriteLine("Enter address");
+       sa = Console.ReadLine();
+       student s1 = new student(sr,sn,sa);
+       s1.displayinfo();
+
     }
 }

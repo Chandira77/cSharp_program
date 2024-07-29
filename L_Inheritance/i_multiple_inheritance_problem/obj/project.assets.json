@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\L_Inheritance\\i_multiple_inheritance_problem\\i_multiple_inheritance_problem.csproj",
+      "projectUniqueName": "d:\\Codding\\c#\\L_Inheritance\\i_multiple_inheritance_problem\\i_multiple_inheritance_problem.csproj",
       "projectName": "i_multiple_inheritance_problem",
-      "projectPath": "D:\\c#\\L_Inheritance\\i_multiple_inheritance_problem\\i_multiple_inheritance_problem.csproj",
+      "projectPath": "d:\\Codding\\c#\\L_Inheritance\\i_multiple_inheritance_problem\\i_multiple_inheritance_problem.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\L_Inheritance\\i_multiple_inheritance_problem\\obj\\",
+      "outputPath": "d:\\Codding\\c#\\L_Inheritance\\i_multiple_inheritance_problem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

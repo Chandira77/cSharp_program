@@ -1,0 +1,15 @@
+d:\Codding\c#\V_collection\a_generic_list\bin\Debug\net8.0\a_generic_list.exe
+d:\Codding\c#\V_collection\a_generic_list\bin\Debug\net8.0\a_generic_list.deps.json
+d:\Codding\c#\V_collection\a_generic_list\bin\Debug\net8.0\a_generic_list.runtimeconfig.json
+d:\Codding\c#\V_collection\a_generic_list\bin\Debug\net8.0\a_generic_list.dll
+d:\Codding\c#\V_collection\a_generic_list\bin\Debug\net8.0\a_generic_list.pdb
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\a_generic_list.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\a_generic_list.AssemblyInfoInputs.cache
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\a_generic_list.AssemblyInfo.cs
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\a_generic_list.csproj.CoreCompileInputs.cache
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\a_generic_list.sourcelink.json
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\a_generic_list.dll
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\refint\a_generic_list.dll
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\a_generic_list.pdb
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\a_generic_list.genruntimeconfig.cache
+d:\Codding\c#\V_collection\a_generic_list\obj\Debug\net8.0\ref\a_generic_list.dll

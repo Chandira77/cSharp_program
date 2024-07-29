@@ -1,0 +1,15 @@
+d:\Codding\c#\Z_String\b_char_array\bin\Debug\net8.0\b_char_array.exe
+d:\Codding\c#\Z_String\b_char_array\bin\Debug\net8.0\b_char_array.deps.json
+d:\Codding\c#\Z_String\b_char_array\bin\Debug\net8.0\b_char_array.runtimeconfig.json
+d:\Codding\c#\Z_String\b_char_array\bin\Debug\net8.0\b_char_array.dll
+d:\Codding\c#\Z_String\b_char_array\bin\Debug\net8.0\b_char_array.pdb
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\b_char_array.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\b_char_array.AssemblyInfoInputs.cache
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\b_char_array.AssemblyInfo.cs
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\b_char_array.csproj.CoreCompileInputs.cache
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\b_char_array.sourcelink.json
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\b_char_array.dll
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\refint\b_char_array.dll
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\b_char_array.pdb
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\b_char_array.genruntimeconfig.cache
+d:\Codding\c#\Z_String\b_char_array\obj\Debug\net8.0\ref\b_char_array.dll
